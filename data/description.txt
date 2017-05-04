@@ -1,0 +1,10 @@
+Let's look at the dataset of player performance from the 2013-2014 season.
+
+Here are some selected columns:
+
+player -- name of the player
+pos -- the position of the player
+g -- number of games the player was in
+pts -- total points the player scored
+fg. -- field goal percentage
+ft. -- free throw percentage
